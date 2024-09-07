@@ -1,0 +1,11 @@
+﻿{
+	"name": "Unlobotomize",
+	"authorName": "Gorakh",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Goorakh/RoR2_Unlobotomize",
+	"description": "Removes certain enemies intentionally missing first attack if they aren't visible on screen",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2117",
+		"RiskofThunder-R2API_Core-5.1.1"
+	]
+}
